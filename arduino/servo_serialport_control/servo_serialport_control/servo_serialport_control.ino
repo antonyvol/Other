@@ -4,7 +4,6 @@ String inByte;
 int pos;
 
 void setup() {
- 
   myservo.attach(9);
   Serial.begin(9600);
 }
